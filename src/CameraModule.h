@@ -6,7 +6,7 @@
 #define FRONT  0x04
 
 #define ON     0x06
-#define OFF    0x08
+#define OFF2    0x08
 #define AUTO   0x07
 
 #define HIGH_QUALITY 0x09 

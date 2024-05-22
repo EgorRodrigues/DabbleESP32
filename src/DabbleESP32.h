@@ -49,13 +49,13 @@
 #ifndef DabbleESP32_h
 #define DabbleESP32_h
 
-#include "Stream.h"
-#include <Arduino.h>
+//#include "Stream.h"
+//#include <Arduino.h>
 #include "esp32BLEUtilities.h"
 
 #include "ModuleIds.h"
-#include "ModuleSelection.h"
-#include "ModuleIncludes.h"
+//#include "ModuleSelection.h"
+//#include "ModuleIncludes.h"
 #include "ModuleParent.h"
 #include "ModuleInstantiation.h"
 //#include "InternetModule.h"
